@@ -1,0 +1,18 @@
+/* Add this CSS in your global CSS or a component-specific CSS file */
+
+.my-order-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.order-item {
+  margin-bottom: 20px;
+}
+
+/* Adjust other styles as needed */
+
+/* Ensure Footer remains at the bottom */
+footer {
+  margin-top: auto;
+}
